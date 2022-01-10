@@ -1,1 +1,1 @@
-# Thermal_infrared
+# Ground Based Thermal Infrared Imaging
